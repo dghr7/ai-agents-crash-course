@@ -1,5 +1,4 @@
 import os
-
 import chainlit as cl
 import dotenv
 from agents import InputGuardrailTripwireTriggered, Runner, SQLiteSession
